@@ -1,0 +1,25 @@
+Problem Statement: AI Staffing Assistant
+
+**Project:** AI Staffing Assistant
+
+**Persona:** Operations Manager
+
+**Problem:**
+Operations Managers face a significant challenge in efficiently finding and assigning the most suitable employee to a given project from across the entire company. The manual process of identifying talent is often time-consuming, limited to the manager's immediate network, and can result in sub-optimal skill-to-task matching. This inefficiency leads to project delays, underutilization of the company's full talent pool, and a reduced ability to respond quickly to new business requirements or unexpected disruptions.
+
+**Solution:**
+The proposed solution is an AI-powered Staffing Assistant designed to automate and optimize the employee selection process. The system leverages a Large Language Model (LLM) to function as an intelligent agent.
+
+**Workflow:**
+1.  **Inputs:** An Operations Manager initiates the process by providing two key pieces of information:
+    *   A natural language query describing the project or task.
+    *   A document (e.g., PDF, DOCX) containing detailed project requirements.
+2.  **Data Integration:** The AI agent accesses a comprehensive knowledge base of employee data stored in SharePoint. This data includes employee skills, proficiencies, project history, and other relevant attributes.
+3.  **AI Analysis:** The LLM (Azure GPT-4o) processes the manager's query, the project document, and the SharePoint employee data.
+4.  **Matching & Recommendation:** The agent cross-references the project requirements with the skills and competencies of all available employees. It then identifies and suggests the best-suited employee(s), providing a match percentage to quantify the recommendation.
+5.  **Output:** The final recommendation is presented to the manager in a clear, formatted output.
+
+**Key Benefits:**
+*   **Drastic Time Reduction:** Aims to achieve a 90% reduction in the time required to find the right talent.
+*   **Company-Wide Talent Optimization:** Breaks down departmental silos by enabling a search across the entire organization's talent pool.
+*   **Enhanced Agility:** Allows the company to staff projects and respond to disruptions more rapidly and effectively.
