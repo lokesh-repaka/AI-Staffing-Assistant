@@ -2,9 +2,13 @@
 
 The AI Staffing Assistant is a powerful tool designed to streamline the process of finding the best-suited employees for various projects. It leverages a FastAPI backend for robust API services, a Streamlit frontend for an intuitive user interface, and integrates with a Large Language Model (LLM) to provide intelligent staffing recommendations based on project requirements or uploaded documents.
 
+![alt text](image.png)
+
 ## Problem Statement
 
 **Problem:** Operations Managers face a significant challenge in efficiently finding and assigning the most suitable employee to a given project from across the entire company. The manual process of identifying talent is often time-consuming, limited to the manager's immediate network, and can result in sub-optimal skill-to-task matching. This inefficiency leads to project delays, underutilization of the company's full talent pool, and a reduced ability to respond quickly to new business requirements or unexpected disruptions.
+
+
 
 ## Solution
 
@@ -54,7 +58,7 @@ Follow these steps to get the AI Staffing Assistant up and running on your local
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ai-staffing-assistant.git
+https://github.com/lokesh-repaka/AI-Staffing-Assistant.git
 cd ai-staffing-assistant
 ```
 
