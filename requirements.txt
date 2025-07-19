@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+streamlit
+pandas
+numpy
+scikit-learn
+requests
+pydantic
+python-dotenv
+langchain
+langgraph
+langchain_google_genai
+pypdf
+python-multipart
+python-docx
