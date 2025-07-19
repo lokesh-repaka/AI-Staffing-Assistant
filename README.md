@@ -2,7 +2,7 @@
 
 The AI Staffing Assistant is a powerful tool designed to streamline the process of finding the best-suited employees for various projects. It leverages a FastAPI backend for robust API services, a Streamlit frontend for an intuitive user interface, and integrates with a Large Language Model (LLM) to provide intelligent staffing recommendations based on project requirements or uploaded documents.
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 ## Problem Statement
 
